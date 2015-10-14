@@ -1,6 +1,6 @@
 {
   "name": "react-style-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple wrapper to eliminate the gap between style and script",
   "main": "index.js",
   "devDependencies": {
